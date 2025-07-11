@@ -1,4 +1,4 @@
 # ZSPNet
-ZSPNet: Zero-shot Supervised Pansharpening Network Based on 3DCNN Features Fusion with Spatial and Spectral Attention
+A novel Spectral-Spatial Attention Network for Zero-Shot Pansharpening
 ####
 Any questions please contact: 1229476319@qq.com
